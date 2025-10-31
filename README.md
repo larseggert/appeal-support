@@ -1,8 +1,8 @@
 <!-- regenerate: on (set to off if you edit this file) -->
 
-# TODO - Your title
+# Requiring Support for Appealing to the IESG and IAB
 
-This is the working area for the individual Internet-Draft, "TODO - Your title".
+This is the working area for the individual Internet-Draft, "Requiring Support for Appealing to the IESG and IAB".
 
 * [Editor's Copy](https://larseggert.github.io/appeal-support/#go.draft-eggert-appeal-support.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-eggert-appeal-support)
