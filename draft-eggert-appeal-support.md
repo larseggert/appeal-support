@@ -37,18 +37,18 @@ informative:
 
 {{!RFC2026}} outlines the procedure for appealing decisions or process
 failures to the IESG and the IAB. This document describes how an
-appellant must first gain support for their appeal before an
-appeal is being considered by the body it is submitted to.
+appellant must first gain support for their appeal before an appeal
+is being considered by the body it is submitted to.
 
 --- middle
 
 # Introduction
 
-{{Section 6.5 of !RFC2026}} outlines how conflicts in the IETF
-should be resolved and describes how matters can be resolved by
-appealing decisions at IESG and IAB level. The appeal mechanism has
-proven to be an important mechanism for maintaining an open nature of
-the IETF standards process.
+{{Section 6.5 of !RFC2026}} outlines how conflicts in the IETF should
+be resolved and describes how matters can be resolved by appealing
+decisions at IESG and IAB level. The appeal mechanism has proven to
+be an important mechanism for maintaining an open nature of the IETF
+standards process.
 
 It has been argued that appeals put an asymmetric workload on the
 bodies that handle the appeal. It has also been argued that the
@@ -77,14 +77,15 @@ boards is to be spent on the issue.
 
 {::boilerplate bcp14-tagged}
 
-# Qualifying Supporters {#qual}
+# Qualified Supporters {#qual}
 
 Supporters are intended to have a reasonable IETF experience. They are
 supposed to be active participants that know the IETF community.
 
-Therefore, supporters MUST be NomCom-eligible under the criteria of
-{{Section 3 of !RFC9389}}, where "the day the call for NomCom
-volunteers is sent" in this context is the day the appeal is raised.
+Therefore, qualified supporters MUST be NomCom-eligible under the
+criteria in{{Section 3 of !RFC9389}}, where "the day the call for
+NomCom volunteers is sent" in this context is the day the appeal is
+raised.
 
 To keep the dispute resolution as open as possible, there are no
 further requirements on supporters, i.e., {{Section 4.15
@@ -92,9 +93,9 @@ of !RFC8713}} does **not** apply to potential supporters. The group
 of potential supporters hence may include members of the IESG, the
 IAB, etc.
 
-Qualifying supporters MUST NOT have supported the same appellant
-during a previous appeal within the past three years. Qualifying
-supporters MAY have supported other appellants.
+Qualified supporters MUST NOT have supported the same appellant during
+a previous appeal within the past year. Qualified supporters MAY have
+supported other appellants.
 
 Appellants MAY act as a supporter for their own appeal when they meet
 the above criteria. As a result they can only self-support once.
@@ -102,30 +103,29 @@ the above criteria. As a result they can only self-support once.
 # Mechanics
 
 Introducing the requirement for three supporters also introduces some
-additional mechanics in the process. The two normative changes to
-the process described in {{!RFC2026}} are that
+additional mechanics in the process. The two normative changes to the
+process described in {{!RFC2026}} are that
 
 - three supporters must have filed their support with the
   appeal-handling body at most two weeks after the appeal has been
   received by that body;
 
 - the appeal-handling body MAY choose to not consider the appeal if
-  there are insufficient supporters, or if the supporters do not
-  qualify as described above.
+  there are insufficient qualified supporters.
 
 Note that the appeal-handling body MAY choose to consider an appeal
 even when there are insufficient qualified supporters.
 
-It is the responsibility of the appellant to find qualifying
-supporters. In order to find qualifying supporters, the appellant MAY
-send a single message to one public IETF mailing list.
+It is the responsibility of the appellant to find qualified
+supporters. In order to find qualified supporters, the appellant MAY
+send a **single** message to **one* public IETF mailing list.
 
 Supporters SHOULD send their supporting messages personally to the
 appeal-handling body in question and SHOULD NOT proxy their message
 through the appellant.
 
 If an appellant escalates an appeal from the IESG to the IAB, that
-escalated appeal MUST find new supporters.
+escalated appeal MUST find new qualified supporters.
 
 # Conclusions
 
