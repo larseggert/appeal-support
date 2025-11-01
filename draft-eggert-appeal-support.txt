@@ -4,9 +4,9 @@
 
 Network Working Group                                          L. Eggert
 Internet-Draft                                                   Mozilla
-Updates: 2026 (if approved)                              31 October 2025
+Updates: 2026 (if approved)                              1 November 2025
 Intended status: Best Current Practice                                  
-Expires: 4 May 2026
+Expires: 5 May 2026
 
 
           Requiring Support for Appealing to the IESG and IAB
@@ -51,7 +51,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 4 May 2026.
+   This Internet-Draft will expire on 5 May 2026.
 
 Copyright Notice
 
@@ -71,7 +71,7 @@ Table of Contents
 
    1.  Introduction
    2.  Conventions and Definitions
-   3.  Qualifying Supporters
+   3.  Qualified Supporters
    4.  Mechanics
    5.  Conclusions
    6.  Security Considerations
@@ -121,23 +121,23 @@ Table of Contents
    BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
    capitals, as shown here.
 
-3.  Qualifying Supporters
+3.  Qualified Supporters
 
    Supporters are intended to have a reasonable IETF experience.  They
    are supposed to be active participants that know the IETF community.
 
-   Therefore, supporters MUST be NomCom-eligible under the criteria of
-   Section 3 of [RFC9389], where "the day the call for NomCom volunteers
-   is sent" in this context is the day the appeal is raised.
+   Therefore, qualified supporters MUST be NomCom-eligible under the
+   criteria inSection 3 of [RFC9389], where "the day the call for NomCom
+   volunteers is sent" in this context is the day the appeal is raised.
 
    To keep the dispute resolution as open as possible, there are no
    further requirements on supporters, i.e., Section 4.15 of [RFC8713]
    does *not* apply to potential supporters.  The group of potential
    supporters hence may include members of the IESG, the IAB, etc.
 
-   Qualifying supporters MUST NOT have supported the same appellant
-   during a previous appeal within the past three years.  Qualifying
-   supporters MAY have supported other appellants.
+   Qualified supporters MUST NOT have supported the same appellant
+   during a previous appeal within the past year.  Qualified supporters
+   MAY have supported other appellants.
 
    Appellants MAY act as a supporter for their own appeal when they meet
    the above criteria.  As a result they can only self-support once.
@@ -153,22 +153,21 @@ Table of Contents
       by that body;
 
    *  the appeal-handling body MAY choose to not consider the appeal if
-      there are insufficient supporters, or if the supporters do not
-      qualify as described above.
+      there are insufficient qualified supporters.
 
    Note that the appeal-handling body MAY choose to consider an appeal
    even when there are insufficient qualified supporters.
 
-   It is the responsibility of the appellant to find qualifying
-   supporters.  In order to find qualifying supporters, the appellant
-   MAY send a single message to one public IETF mailing list.
+   It is the responsibility of the appellant to find qualified
+   supporters.  In order to find qualified supporters, the appellant MAY
+   send a *single* message to _*one_ public IETF mailing list.
 
    Supporters SHOULD send their supporting messages personally to the
    appeal-handling body in question and SHOULD NOT proxy their message
    through the appellant.
 
    If an appellant escalates an appeal from the IESG to the IAB, that
-   escalated appeal MUST find new supporters.
+   escalated appeal MUST find new qualified supporters.
 
 5.  Conclusions
 
