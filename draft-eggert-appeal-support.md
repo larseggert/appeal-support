@@ -35,10 +35,10 @@ informative:
 
 --- abstract
 
-{{!RFC2026}} outlines the procedure for appealing decisions or process
-failures to the IESG and the IAB. This document describes how an
-appellant must first gain support for their appeal before an appeal
-is being considered by the body it is submitted to.
+RFC2026 describes the procedure for appealing decisions or process
+failures to the IESG and the IAB. This document updates RFC2026 and
+requires that an appellant must first gain support for their appeal
+before an appeal may be considered by the body it is submitted to.
 
 --- middle
 
@@ -118,7 +118,7 @@ even when there are insufficient qualified supporters.
 
 It is the responsibility of the appellant to find qualified
 supporters. In order to find qualified supporters, the appellant MAY
-send a **single** message to **one* public IETF mailing list.
+send a **single** message to **one** public IETF mailing list.
 
 Supporters SHOULD send their supporting messages personally to the
 appeal-handling body in question and SHOULD NOT proxy their message
