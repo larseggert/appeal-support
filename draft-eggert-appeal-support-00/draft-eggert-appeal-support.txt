@@ -1,0 +1,242 @@
+
+
+
+
+Network Working Group                                          L. Eggert
+Internet-Draft                                                   Mozilla
+Updates: 2026 (if approved)                              2 November 2025
+Intended status: Best Current Practice                                  
+Expires: 6 May 2026
+
+
+          Requiring Support for Appealing to the IESG and IAB
+                   draft-eggert-appeal-support-latest
+
+Abstract
+
+   RFC2026 describes the procedure for appealing decisions or process
+   failures to the IESG and the IAB.  This document updates RFC2026 and
+   requires that an appellant must first gain support for their appeal
+   before an appeal may be considered by the body it is submitted to.
+
+About This Document
+
+   This note is to be removed before publishing as an RFC.
+
+   The latest revision of this draft can be found at
+   https://larseggert.github.io/appeal-support/draft-eggert-appeal-
+   support.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-eggert-appeal-support/.
+
+   Discussion of this document takes place on the PROCON Working Group
+   mailing list (mailto:procon@ietf.org), which is archived at
+   https://mailarchive.ietf.org/arch/browse/procon/.  Subscribe at
+   https://www.ietf.org/mailman/listinfo/procon/.
+
+   Source for this draft and an issue tracker can be found at
+   https://github.com/larseggert/appeal-support.
+
+Status of This Memo
+
+   This Internet-Draft is submitted in full conformance with the
+   provisions of BCP 78 and BCP 79.
+
+   Internet-Drafts are working documents of the Internet Engineering
+   Task Force (IETF).  Note that other groups may also distribute
+   working documents as Internet-Drafts.  The list of current Internet-
+   Drafts is at https://datatracker.ietf.org/drafts/current/.
+
+   Internet-Drafts are draft documents valid for a maximum of six months
+   and may be updated, replaced, or obsoleted by other documents at any
+   time.  It is inappropriate to use Internet-Drafts as reference
+   material or to cite them other than as "work in progress."
+
+   This Internet-Draft will expire on 6 May 2026.
+
+Copyright Notice
+
+   Copyright (c) 2025 IETF Trust and the persons identified as the
+   document authors.  All rights reserved.
+
+   This document is subject to BCP 78 and the IETF Trust's Legal
+   Provisions Relating to IETF Documents (https://trustee.ietf.org/
+   license-info) in effect on the date of publication of this document.
+   Please review these documents carefully, as they describe your rights
+   and restrictions with respect to this document.  Code Components
+   extracted from this document must include Revised BSD License text as
+   described in Section 4.e of the Trust Legal Provisions and are
+   provided without warranty as described in the Revised BSD License.
+
+Table of Contents
+
+   1.  Introduction
+   2.  Conventions and Definitions
+   3.  Qualified Supporters
+   4.  Mechanics
+   5.  Conclusions
+   6.  Security Considerations
+   7.  IANA Considerations
+   8.  References
+     8.1.  Normative References
+     8.2.  Informative References
+   Acknowledgments
+   Author's Address
+
+1.  Introduction
+
+   Section 6.5 of [RFC2026] outlines how conflicts in the IETF should be
+   resolved and describes how matters can be resolved by appealing
+   decisions at IESG and IAB level.  The appeal mechanism has proven to
+   be an important mechanism for maintaining an open nature of the IETF
+   standards process.
+
+   It has been argued that appeals put an asymmetric workload on the
+   bodies that handle the appeal.  It has also been argued that the
+   appeals process has been abused to stall forward progress
+   [MontrealPlenary].
+
+   Therefore, this document updates [RFC2026] in that an appellant MUST
+   gain support for entering the appeals process from at least *three*
+   active IETF participants ("supporters") for an appeal to be
+   considered.  This requirement reduces the likelihood that the appeals
+   process will be abused by individuals while still maintaining an open
+   and accessible process for conflict resolution.
+
+   Below we describe how this requirement is integrated in the process
+   steps and what makes a supporter qualify.
+
+2.  Conventions and Definitions
+
+   This document uses the term "supporter".  This is a person with an
+   active IETF background (see Section 3).  The supporter only supports
+   that the matter at hand should be reviewed by the responsible board
+   -- IESG or IAB.  Their support for entering the appeals process
+   should in no way be seen as (non-)support for (the view of) the
+   appellant, but more for the fact that time of the responsible review
+   boards is to be spent on the issue.
+
+   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
+   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
+   "OPTIONAL" in this document are to be interpreted as described in
+   BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
+   capitals, as shown here.
+
+3.  Qualified Supporters
+
+   Supporters are intended to have a reasonable IETF experience.  They
+   are supposed to be active participants that know the IETF community.
+
+   Therefore, qualified supporters MUST be NomCom-eligible under the
+   criteria inSection 3 of [RFC9389], where "the day the call for NomCom
+   volunteers is sent" in this context is the day the appeal is raised.
+
+   To keep the dispute resolution as open as possible, there are no
+   further requirements on supporters, i.e., Section 4.15 of [RFC8713]
+   does *not* apply to potential supporters.  The group of potential
+   supporters hence may include members of the IESG, the IAB, etc.
+
+   Qualified supporters MUST NOT have supported the same appellant
+   during a previous appeal within the past year.  Qualified supporters
+   MAY have supported other appellants.
+
+   Appellants MAY act as a supporter for their own appeal when they meet
+   the above criteria.  As a result they can only self-support once.
+
+4.  Mechanics
+
+   Introducing the requirement for three supporters also introduces some
+   additional mechanics in the process.  The two normative changes to
+   the process described in [RFC2026] are that
+
+   *  three supporters must have filed their support with the appeal-
+      handling body at most two weeks after the appeal has been received
+      by that body;
+
+   *  the appeal-handling body MAY choose to not consider the appeal if
+      there are insufficient qualified supporters.
+
+   Note that the appeal-handling body MAY choose to consider an appeal
+   even when there are insufficient qualified supporters.
+
+   It is the responsibility of the appellant to find qualified
+   supporters.  In order to find qualified supporters, the appellant MAY
+   send a *single* message to *one* public IETF mailing list.
+
+   Supporters SHOULD send their supporting messages personally to the
+   appeal-handling body in question and SHOULD NOT proxy their message
+   through the appellant.
+
+   If an appellant escalates an appeal from the IESG to the IAB, that
+   escalated appeal MUST find new qualified supporters.
+
+5.  Conclusions
+
+   The mechanism proposed herein only applies to appeals to the IESG and
+   the IAB.  It does not apply to other forms of dispute resolution.
+
+6.  Security Considerations
+
+   This document specifies neither a protocol nor an operational
+   practice, and as such, it creates no new security considerations.
+
+7.  IANA Considerations
+
+   This document has no IANA actions.
+
+8.  References
+
+8.1.  Normative References
+
+   [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
+              3", BCP 9, RFC 2026, DOI 10.17487/RFC2026, October 1996,
+              <https://www.rfc-editor.org/rfc/rfc2026>.
+
+   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
+              Requirement Levels", BCP 14, RFC 2119,
+              DOI 10.17487/RFC2119, March 1997,
+              <https://www.rfc-editor.org/rfc/rfc2119>.
+
+   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
+              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
+              May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
+
+   [RFC8713]  Kucherawy, M., Ed., Hinden, R., Ed., and J. Livingood,
+              Ed., "IAB, IESG, IETF Trust, and IETF LLC Selection,
+              Confirmation, and Recall Process: Operation of the IETF
+              Nominating and Recall Committees", BCP 10, RFC 8713,
+              DOI 10.17487/RFC8713, February 2020,
+              <https://www.rfc-editor.org/rfc/rfc8713>.
+
+   [RFC9389]  Duke, M., "Nominating Committee Eligibility", BCP 10,
+              RFC 9389, DOI 10.17487/RFC9389, April 2023,
+              <https://www.rfc-editor.org/rfc/rfc9389>.
+
+8.2.  Informative References
+
+   [I-D.kolkman-appeal-support]
+              Kolkman, O., "Requiring support for appealing to the IESG
+              and IAB", Work in Progress, Internet-Draft, draft-kolkman-
+              appeal-support-00, 12 October 2006,
+              <https://datatracker.ietf.org/doc/html/draft-kolkman-
+              appeal-support-00>.
+
+   [MontrealPlenary]
+              "Minutes of the IETF66 Thursday Technical Plenary", 13
+              July 2019,
+              <https://www.ietf.org/proceedings/66/plenaryt.html>.
+
+Acknowledgments
+
+   This is a re-spin of [I-D.kolkman-appeal-support].  Thanks to Olaf
+   Kolkmann for having the right idea nineteen years ago and writing it
+   down.
+
+Author's Address
+
+   Lars Eggert
+   Mozilla
+   Stenbergintie 12 B
+   FI-02700 Kauniainen
+   Finland
+   Email: lars@eggert.org
+   URI:   https://eggert.org/
