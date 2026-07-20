@@ -7,10 +7,10 @@ submissiontype: IETF
 v: 3
 updates: 2026
 area: GEN
-# workgroup: PROCON Working Group
+# workgroup: GENDISPATCH Working Group
 venue:
-  group: PROCON
-  mail: procon@ietf.org
+  group: GENDISPATCH
+  mail: gendispatch@ietf.org
   github: larseggert/appeal-support
   latest: https://larseggert.github.io/appeal-support/draft-eggert-appeal-support.html
 author:
@@ -56,9 +56,13 @@ appeals process has been abused to stall forward progress
 {{MontrealPlenary}}.
 
 Therefore, this document updates {{!RFC2026}} in that an appellant
-MUST gain support for entering the appeals process from at
-least **three** active IETF participants ("supporters") for an appeal
-to be considered. This requirement reduces the likelihood that the
+MUST gain support from at least **three** active IETF participants
+("supporters") for an appeal to be considered by the IESG as a whole
+or the IAB. Importantly, this requirement does **not** apply to the
+initial phases of the appeals process, i.e., to bring up a dispute
+with the WG chairs or the responsible AD.
+
+This requirement reduces the likelihood that the
 appeals process will be abused by individuals while still maintaining
 an open and accessible process for conflict resolution.
 
@@ -70,7 +74,8 @@ steps and what makes a supporter qualify.
 This document uses the term "supporter". This is a person with an
 active IETF background (see {{qual}}). The supporter only supports
 that the matter at hand should be reviewed by the responsible
-board -- IESG or IAB. Their support for entering the appeals process
+board -- IESG or IAB. Their support for seeing an appeal be brought
+before the entire IESG or IAB
 should in no way be seen as (non-)support for (the view of) the
 appellant, but more for the fact that time of the responsible review
 boards is to be spent on the issue.
@@ -143,9 +148,15 @@ This document has no IANA actions.
 
 --- back
 
+# Change History
+
+## Since draft-eggert-appeal-support-00
+
+- Only require supporters when appeals hit the IESG or IAB.
+
 # Acknowledgments
 {:numbered="false"}
 
-This is a re-spin of {{?I-D.kolkman-appeal-support}}. Thanks to Olaf
+This is a variant of {{?I-D.kolkman-appeal-support}}. Thanks to Olaf
 Kolkmann for having the right idea nineteen years ago and writing it
 down.
