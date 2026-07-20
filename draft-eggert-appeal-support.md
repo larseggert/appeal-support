@@ -56,7 +56,7 @@ appeals process has been abused to stall forward progress
 {{MontrealPlenary}}.
 
 Therefore, this document updates {{!RFC2026}} in that an appellant
-MUST gain support from at least **three** active IETF participants
+must gain support from at least **three** active IETF participants
 ("supporters") for an appeal to be considered by the IESG as a whole
 or the IAB. Importantly, this requirement does **not** apply to the
 initial phases of the appeals process, i.e., to bring up a dispute
@@ -80,8 +80,6 @@ should in no way be seen as (non-)support for (the view of) the
 appellant, but more for the fact that time of the responsible review
 boards is to be spent on the issue.
 
-{::boilerplate bcp14-tagged}
-
 # Qualified Supporters {#qual}
 
 Supporters are intended to have a reasonable IETF experience. They are
@@ -98,11 +96,11 @@ of !RFC8713}} does **not** apply to potential supporters. The group
 of potential supporters hence may include members of the IESG, the
 IAB, etc.
 
-Qualified supporters MUST NOT have supported the same appellant during
-a previous appeal within the past year. Qualified supporters MAY have
+Qualified supporters must not have supported the same appellant during
+a previous appeal within the past year. Qualified supporters may have
 supported other appellants.
 
-Appellants MAY act as a supporter for their own appeal when they meet
+Appellants may act as a supporter for their own appeal when they meet
 the above criteria. As a result they can only self-support once.
 
 # Mechanics
@@ -125,12 +123,12 @@ It is the responsibility of the appellant to find qualified
 supporters. In order to find qualified supporters, the appellant MAY
 send a **single** message to **one** public IETF mailing list.
 
-Supporters SHOULD send their supporting messages personally to the
-appeal-handling body in question and SHOULD NOT proxy their message
+Supporters should send their supporting messages personally to the
+appeal-handling body in question and should not proxy their message
 through the appellant.
 
 If an appellant escalates an appeal from the IESG to the IAB, that
-escalated appeal MUST find new qualified supporters.
+escalated appeal must find new qualified supporters.
 
 # Conclusions
 
