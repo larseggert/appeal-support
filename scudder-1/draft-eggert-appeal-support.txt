@@ -151,10 +151,10 @@ Table of Contents
 4.  Mechanics
 
    Introducing the requirement for three supporters also introduces some
-   additional mechanics in the process.  The two normative changes to
-   the process described in [RFC2026] are that three supporters must
-   have filed their support with the appeal-handling body at most two
-   weeks after the appeal has been received by that body.
+   additional mechanics in the process.  The normative change to the
+   process described in [RFC2026] is that three supporters must have
+   filed their support with the appeal-handling body at most two weeks
+   after the appeal has been received by that body.
 
    It is the responsibility of the appellant to find qualified
    supporters.  In order to find qualified supporters, the appellant MAY
