@@ -109,17 +109,9 @@ the above criteria. As a result they can only self-support once.
 
 Introducing the requirement for three supporters also introduces some
 additional mechanics in the process. The two normative changes to the
-process described in {{!RFC2026}} are that
-
-- three supporters must have filed their support with the
-  appeal-handling body at most two weeks after the appeal has been
-  received by that body;
-
-- the appeal-handling body MAY choose to not consider the appeal if
-  there are insufficient qualified supporters.
-
-Note that the appeal-handling body MAY choose to consider an appeal
-even when there are insufficient qualified supporters.
+process described in {{!RFC2026}} are that three supporters must have
+filed their support with the appeal-handling body at most two weeks
+after the appeal has been received by that body.
 
 It is the responsibility of the appellant to find qualified
 supporters. In order to find qualified supporters, the appellant MAY
