@@ -125,9 +125,8 @@ It is the responsibility of the appellant to find qualified
 supporters. In order to find qualified supporters, the appellant MAY
 send a **single** message to **one** public IETF mailing list.
 
-Supporters SHOULD send their supporting messages personally to the
-appeal-handling body in question and SHOULD NOT proxy their message
-through the appellant.
+Supporters must send their supporting messages personally to the
+appeal-handling body in question.
 
 If an appellant escalates an appeal from the IESG to the IAB, that
 escalated appeal MUST find new qualified supporters.
