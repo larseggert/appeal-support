@@ -108,8 +108,8 @@ the above criteria. As a result they can only self-support once.
 # Mechanics
 
 Introducing the requirement for three supporters also introduces some
-additional mechanics in the process. The two normative changes to the
-process described in {{!RFC2026}} are that three supporters must have
+additional mechanics in the process. The normative change to the
+process described in {{!RFC2026}} is that three supporters must have
 filed their support with the appeal-handling body at most two weeks
 after the appeal has been received by that body.
 
