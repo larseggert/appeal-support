@@ -4,9 +4,9 @@
 
 Network Working Group                                          L. Eggert
 Internet-Draft                                                   Mozilla
-Updates: 2026 (if approved)                              2 November 2025
+Updates: 2026 (if approved)                                 20 July 2026
 Intended status: Best Current Practice                                  
-Expires: 6 May 2026
+Expires: 21 January 2027
 
 
           Requiring Support for Appealing to the IESG and IAB
@@ -28,10 +28,10 @@ About This Document
    support.html.  Status information for this document may be found at
    https://datatracker.ietf.org/doc/draft-eggert-appeal-support/.
 
-   Discussion of this document takes place on the PROCON Working Group
-   mailing list (mailto:procon@ietf.org), which is archived at
-   https://mailarchive.ietf.org/arch/browse/procon/.  Subscribe at
-   https://www.ietf.org/mailman/listinfo/procon/.
+   Discussion of this document takes place on the GENDISPATCH Working
+   Group mailing list (mailto:gendispatch@ietf.org), which is archived
+   at https://mailarchive.ietf.org/arch/browse/gendispatch/.  Subscribe
+   at https://www.ietf.org/mailman/listinfo/gendispatch/.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/larseggert/appeal-support.
@@ -51,11 +51,11 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 6 May 2026.
+   This Internet-Draft will expire on 21 January 2027.
 
 Copyright Notice
 
-   Copyright (c) 2025 IETF Trust and the persons identified as the
+   Copyright (c) 2026 IETF Trust and the persons identified as the
    document authors.  All rights reserved.
 
    This document is subject to BCP 78 and the IETF Trust's Legal
@@ -79,6 +79,8 @@ Table of Contents
    8.  References
      8.1.  Normative References
      8.2.  Informative References
+   Appendix A.  Change History
+     A.1.  Since draft-eggert-appeal-support-00
    Acknowledgments
    Author's Address
 
@@ -96,11 +98,15 @@ Table of Contents
    [MontrealPlenary].
 
    Therefore, this document updates [RFC2026] in that an appellant MUST
-   gain support for entering the appeals process from at least *three*
-   active IETF participants ("supporters") for an appeal to be
-   considered.  This requirement reduces the likelihood that the appeals
-   process will be abused by individuals while still maintaining an open
-   and accessible process for conflict resolution.
+   gain support from at least *three* active IETF participants
+   ("supporters") for an appeal to be considered by the IESG as a whole
+   or the IAB.  Importantly, this requirement does *not* apply to the
+   initial phases of the appeals process, i.e., to bring up a dispute
+   with the WG chairs or the responsible AD.
+
+   This requirement reduces the likelihood that the appeals process will
+   be abused by individuals while still maintaining an open and
+   accessible process for conflict resolution.
 
    Below we describe how this requirement is integrated in the process
    steps and what makes a supporter qualify.
@@ -110,10 +116,10 @@ Table of Contents
    This document uses the term "supporter".  This is a person with an
    active IETF background (see Section 3).  The supporter only supports
    that the matter at hand should be reviewed by the responsible board
-   -- IESG or IAB.  Their support for entering the appeals process
-   should in no way be seen as (non-)support for (the view of) the
-   appellant, but more for the fact that time of the responsible review
-   boards is to be spent on the issue.
+   -- IESG or IAB.  Their support for seeing an appeal be brought before
+   the entire IESG or IAB should in no way be seen as (non-)support for
+   (the view of) the appellant, but more for the fact that time of the
+   responsible review boards is to be spent on the issue.
 
    The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
    "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
@@ -225,9 +231,15 @@ Table of Contents
               July 2019,
               <https://www.ietf.org/proceedings/66/plenaryt.html>.
 
+Appendix A.  Change History
+
+A.1.  Since draft-eggert-appeal-support-00
+
+   *  Only require supporters when appeals hit the IESG or IAB.
+
 Acknowledgments
 
-   This is a re-spin of [I-D.kolkman-appeal-support].  Thanks to Olaf
+   This is a variant of [I-D.kolkman-appeal-support].  Thanks to Olaf
    Kolkmann for having the right idea nineteen years ago and writing it
    down.
 
