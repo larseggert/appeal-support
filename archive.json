@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-07-19T01:16:43.250085+00:00",
+  "timestamp": "2026-07-21T01:17:04.019617+00:00",
   "repo": "larseggert/appeal-support",
   "labels": [
     {
@@ -49,6 +49,160 @@
       "color": "ffffff"
     }
   ],
-  "issues": [],
-  "pulls": []
+  "issues": [
+    {
+      "number": 2,
+      "id": "I_kwDOQMpJX88AAAABJbpQkQ",
+      "title": "escalate an appeal without finding new supporters",
+      "url": "https://github.com/larseggert/appeal-support/issues/2",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "\ufeff\ufeffArchived-At: <https://mailarchive.ietf.org/arch/msg/gendispatch/BDBAUt06nMUgVlIydWLcPQrMbyE>",
+      "createdAt": "2026-07-20T10:11:40Z",
+      "updatedAt": "2026-07-20T10:11:40Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 3,
+      "id": "I_kwDOQMpJX88AAAABJbqJbA",
+      "title": "Existing mailing list moderation policies should be sufficient",
+      "url": "https://github.com/larseggert/appeal-support/issues/3",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "https://mailarchive.ietf.org/arch/msg/gendispatch/KqLCVghlq3XWpQZ99LtIwcY--Z0/",
+      "createdAt": "2026-07-20T10:13:24Z",
+      "updatedAt": "2026-07-20T10:13:24Z",
+      "closedAt": null,
+      "comments": []
+    }
+  ],
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOQMpJX87zu2Lw",
+      "title": "Only require for IESG&IAB",
+      "url": "https://github.com/larseggert/appeal-support/pull/1",
+      "state": "MERGED",
+      "author": "larseggert",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-20T07:29:12Z",
+      "updatedAt": "2026-07-20T07:38:07Z",
+      "baseRepository": "larseggert/appeal-support",
+      "baseRefName": "main",
+      "baseRefOid": "d08bc538a2526e02ee0f4b554da8f413a78af470",
+      "headRepository": "larseggert/appeal-support",
+      "headRefName": "only-later",
+      "headRefOid": "115572b2bd9a9ea18089a8ccacda8ca4a20accc8",
+      "closedAt": "2026-07-20T07:38:07Z",
+      "mergedAt": "2026-07-20T07:38:07Z",
+      "mergedBy": "larseggert",
+      "mergeCommit": {
+        "oid": "e00d6bd8dbb13d45a94c6e5b55cf8d00ee1fea8b"
+      },
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 4,
+      "id": "PR_kwDOQMpJX87z4bMY",
+      "title": "appeal-handling body MAY choose to consider",
+      "url": "https://github.com/larseggert/appeal-support/pull/4",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "(1) from https://mailarchive.ietf.org/arch/msg/gendispatch/8cm3vlYaw6lBicN6XNaxgCygUW8/",
+      "createdAt": "2026-07-20T13:58:00Z",
+      "updatedAt": "2026-07-20T14:43:35Z",
+      "baseRepository": "larseggert/appeal-support",
+      "baseRefName": "main",
+      "baseRefOid": "e00d6bd8dbb13d45a94c6e5b55cf8d00ee1fea8b",
+      "headRepository": "larseggert/appeal-support",
+      "headRefName": "scudder-1",
+      "headRefOid": "30aa5054b60a11455f2a764efb42d8e7893b73b2",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOQMpJX88AAAABGkbfqg",
+          "commit": {
+            "abbreviatedOid": "5c0f1c5"
+          },
+          "author": "jgscudder",
+          "authorAssociation": "NONE",
+          "state": "COMMENTED",
+          "body": "I guess this needs to be \"the normative change ... is\" since there's only one now.",
+          "createdAt": "2026-07-20T14:25:06Z",
+          "updatedAt": "2026-07-20T14:25:06Z",
+          "comments": []
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "PR_kwDOQMpJX87z4fw5",
+      "title": "Remove 2119 terms",
+      "url": "https://github.com/larseggert/appeal-support/pull/5",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "(3) from https://mailarchive.ietf.org/arch/msg/gendispatch/8cm3vlYaw6lBicN6XNaxgCygUW8/",
+      "createdAt": "2026-07-20T14:00:35Z",
+      "updatedAt": "2026-07-20T14:00:35Z",
+      "baseRepository": "larseggert/appeal-support",
+      "baseRefName": "main",
+      "baseRefOid": "e00d6bd8dbb13d45a94c6e5b55cf8d00ee1fea8b",
+      "headRepository": "larseggert/appeal-support",
+      "headRefName": "scudder-2",
+      "headRefOid": "6f907c487f2b38af8d5d2b016556092f579c9504",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 6,
+      "id": "PR_kwDOQMpJX87z4iPM",
+      "title": "Direct to body",
+      "url": "https://github.com/larseggert/appeal-support/pull/6",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "(4) from https://mailarchive.ietf.org/arch/msg/gendispatch/8cm3vlYaw6lBicN6XNaxgCygUW8/",
+      "createdAt": "2026-07-20T14:02:06Z",
+      "updatedAt": "2026-07-20T14:02:06Z",
+      "baseRepository": "larseggert/appeal-support",
+      "baseRefName": "main",
+      "baseRefOid": "e00d6bd8dbb13d45a94c6e5b55cf8d00ee1fea8b",
+      "headRepository": "larseggert/appeal-support",
+      "headRefName": "larseggert-patch-1",
+      "headRefOid": "122a5baa56e4305a0fd5178a094d7921f6c01091",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
