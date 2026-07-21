@@ -122,7 +122,7 @@ Note that the appeal-handling body MAY choose to consider an appeal
 even when there are insufficient qualified supporters.
 
 It is the responsibility of the appellant to find qualified
-supporters. In order to find qualified supporters,  the appellant may
+supporters. In order to find qualified supporters, the appellant may
 send a **single** message to **one** directly relevant public IETF mailing list (such as the working group concerned) or to the IETF general list. This message must respect the IETF Guidelines for Conduct {{BCP7154}}.
 
 Supporters SHOULD send their supporting messages personally to the
