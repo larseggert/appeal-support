@@ -4,9 +4,9 @@
 
 Network Working Group                                          L. Eggert
 Internet-Draft                                                   Mozilla
-Updates: 2026 (if approved)                                 20 July 2026
+Updates: 2026 (if approved)                                 22 July 2026
 Intended status: Best Current Practice                                  
-Expires: 21 January 2027
+Expires: 23 January 2027
 
 
           Requiring Support for Appealing to the IESG and IAB
@@ -51,7 +51,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 21 January 2027.
+   This Internet-Draft will expire on 23 January 2027.
 
 Copyright Notice
 
@@ -133,8 +133,9 @@ Table of Contents
    are supposed to be active participants that know the IETF community.
 
    Therefore, qualified supporters MUST be NomCom-eligible under the
-   criteria inSection 3 of [RFC9389], where "the day the call for NomCom
-   volunteers is sent" in this context is the day the appeal is raised.
+   criteria in Section 3 of [RFC9389], where "the day the call for
+   NomCom volunteers is sent" in this context is the day the appeal is
+   raised.
 
    To keep the dispute resolution as open as possible, there are no
    further requirements on supporters, i.e., Section 4.15 of [RFC8713]
