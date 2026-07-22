@@ -88,7 +88,7 @@ Supporters are intended to have a reasonable IETF experience. They are
 supposed to be active participants that know the IETF community.
 
 Therefore, qualified supporters MUST be NomCom-eligible under the
-criteria in{{Section 3 of !RFC9389}}, where "the day the call for
+criteria in {{Section 3 of !RFC9389}}, where "the day the call for
 NomCom volunteers is sent" in this context is the day the appeal is
 raised.
 
