@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2026-07-21T01:17:04.019617+00:00",
+  "timestamp": "2026-07-23T01:22:34.497987+00:00",
   "repo": "larseggert/appeal-support",
   "labels": [
     {
@@ -79,6 +79,22 @@
       "body": "https://mailarchive.ietf.org/arch/msg/gendispatch/KqLCVghlq3XWpQZ99LtIwcY--Z0/",
       "createdAt": "2026-07-20T10:13:24Z",
       "updatedAt": "2026-07-20T10:13:24Z",
+      "closedAt": null,
+      "comments": []
+    },
+    {
+      "number": 10,
+      "id": "I_kwDOQMpJX88AAAABJt-eHQ",
+      "title": "Explicitly note that the appelant need not be NomCom-elligible",
+      "url": "https://github.com/larseggert/appeal-support/issues/10",
+      "state": "OPEN",
+      "author": "martinthomson",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "I think that this is your intent -- requiring NomCom-elligibility would deprive newcomers the protection of this process -- and this is strictly an editorial change, but it's worth being explicit.  ",
+      "createdAt": "2026-07-22T08:43:01Z",
+      "updatedAt": "2026-07-22T08:43:01Z",
       "closedAt": null,
       "comments": []
     }
@@ -203,6 +219,100 @@
       "mergeCommit": null,
       "comments": [],
       "reviews": []
+    },
+    {
+      "number": 7,
+      "id": "PR_kwDOQMpJX870TH4R",
+      "title": "Clarify",
+      "url": "https://github.com/larseggert/appeal-support/pull/7",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-21T10:27:00Z",
+      "updatedAt": "2026-07-21T10:27:00Z",
+      "baseRepository": "larseggert/appeal-support",
+      "baseRefName": "main",
+      "baseRefOid": "e00d6bd8dbb13d45a94c6e5b55cf8d00ee1fea8b",
+      "headRepository": "larseggert/appeal-support",
+      "headRefName": "larseggert-patch-2",
+      "headRefOid": "a1f157e61c0ba3852efa2b36fcabef4759b1d3ed",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 8,
+      "id": "PR_kwDOQMpJX870TRD0",
+      "title": "conduct",
+      "url": "https://github.com/larseggert/appeal-support/pull/8",
+      "state": "OPEN",
+      "author": "larseggert",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "@becarpenter in https://mailarchive.ietf.org/arch/msg/gendispatch/XBt4lt_6gzH1-OinV_suKsBlhvA",
+      "createdAt": "2026-07-21T10:33:07Z",
+      "updatedAt": "2026-07-21T10:33:29Z",
+      "baseRepository": "larseggert/appeal-support",
+      "baseRefName": "main",
+      "baseRefOid": "e00d6bd8dbb13d45a94c6e5b55cf8d00ee1fea8b",
+      "headRepository": "larseggert/appeal-support",
+      "headRefName": "larseggert-patch-3",
+      "headRefOid": "67ff6c8969b99973af792213fb19d2868c040ad1",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    },
+    {
+      "number": 9,
+      "id": "PR_kwDOQMpJX870xZXA",
+      "title": "U+20",
+      "url": "https://github.com/larseggert/appeal-support/pull/9",
+      "state": "MERGED",
+      "author": "martinthomson",
+      "authorAssociation": "CONTRIBUTOR",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2026-07-22T08:40:41Z",
+      "updatedAt": "2026-07-22T15:17:35Z",
+      "baseRepository": "larseggert/appeal-support",
+      "baseRefName": "main",
+      "baseRefOid": "e00d6bd8dbb13d45a94c6e5b55cf8d00ee1fea8b",
+      "headRepository": "martinthomson/appeal-support",
+      "headRefName": "patch-1",
+      "headRefOid": "835e65b12a2a82a6019b34098bd9bde97ccef092",
+      "closedAt": "2026-07-22T15:17:35Z",
+      "mergedAt": "2026-07-22T15:17:35Z",
+      "mergedBy": "larseggert",
+      "mergeCommit": {
+        "oid": "d43d009763036e35297e561fdb918c530ace865e"
+      },
+      "comments": [],
+      "reviews": [
+        {
+          "id": "PRR_kwDOQMpJX88AAAABG1lUaw",
+          "commit": {
+            "abbreviatedOid": "835e65b"
+          },
+          "author": "larseggert",
+          "authorAssociation": "OWNER",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2026-07-22T11:21:01Z",
+          "updatedAt": "2026-07-22T11:21:01Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
