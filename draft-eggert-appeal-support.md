@@ -55,12 +55,12 @@ bodies that handle the appeal. It has also been argued that the
 appeals process has been abused to stall forward progress
 {{MontrealPlenary}}.
 
-Therefore, this document updates {{!RFC2026}} in that an appellant
+Therefore, this document updates {{Section 6.5.1 of RFC2026}} in that an appellant
 MUST gain support from at least **three** active IETF participants
-("supporters") for an appeal to be considered by the IESG as a whole
-or the IAB. Importantly, this requirement does **not** apply to the
-initial phases of the appeals process, i.e., to bring up a dispute
-with the WG chairs or the responsible AD.
+("supporters") for an appeal escalating a WG dispute to the entire IESG.
+Importantly, this requirement does **not** apply to the
+initial phases of the WG dispute appeals processes (i.e., bringing up a dispute
+with the WG chairs or the responsible AD) or appeals on process failures due to an IESG action per {{Section 6.5.2 of RFC2026}}.
 
 This requirement reduces the likelihood that the
 appeals process will be abused by individuals while still maintaining
