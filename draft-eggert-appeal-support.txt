@@ -153,7 +153,10 @@ Table of Contents
 
    It is the responsibility of the appellant to find qualified
    supporters.  In order to find qualified supporters, the appellant may
-   send a *single* message to *one* public IETF mailing list.
+   send a *single* message to *one* directly relevant public IETF
+   mailing list (such as the working group concerned) or to the IETF
+   general list.  This message must respect the IETF Guidelines for
+   Conduct [BCP54].
 
    Supporters must send their supporting messages personally to the
    appeal-handling body in question.
@@ -178,6 +181,14 @@ Table of Contents
 8.  References
 
 8.1.  Normative References
+
+   [BCP54]    Best Current Practice 54,
+              <https://www.rfc-editor.org/info/bcp54>.
+              At the time of writing, this BCP comprises the following:
+
+              Moonesamy, S., Ed., "IETF Guidelines for Conduct", BCP 54,
+              RFC 7154, DOI 10.17487/RFC7154, March 2014,
+              <https://www.rfc-editor.org/info/rfc7154>.
 
    [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
               3", BCP 9, RFC 2026, DOI 10.17487/RFC2026, October 1996,
