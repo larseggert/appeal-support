@@ -118,8 +118,8 @@ send a **single** message to **one** public IETF mailing list.
 Supporters must send their supporting messages personally to the
 appeal-handling body in question.
 
-If an appellant escalates an appeal from the IESG to the IAB, that
-escalated appeal must find new qualified supporters.
+If an appellant escalates an appeal from the IESG to the IAB, the
+supporters of the original appeal also count for the escalated appeal.
 
 # Conclusions
 
