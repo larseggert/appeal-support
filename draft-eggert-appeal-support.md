@@ -56,7 +56,7 @@ appeals process has been abused to stall forward progress
 {{MontrealPlenary}}.
 
 Therefore, this document updates {{!RFC2026}} in that an appellant
-MUST gain support from at least **three** active IETF participants
+must gain support from at least **three** active IETF participants
 ("supporters") for an appeal to be considered by the IESG as a whole
 or the IAB. Importantly, this requirement does **not** apply to the
 initial phases of the appeals process, i.e., to bring up a dispute
@@ -80,15 +80,13 @@ should in no way be seen as (non-)support for (the view of) the
 appellant, but more for the fact that time of the responsible review
 boards is to be spent on the issue.
 
-{::boilerplate bcp14-tagged}
-
 # Qualified Supporters {#qual}
 
 Supporters are intended to have a reasonable IETF experience. They are
 supposed to be active participants that know the IETF community.
 
-Therefore, qualified supporters MUST be NomCom-eligible under the
-criteria in{{Section 3 of !RFC9389}}, where "the day the call for
+Therefore, qualified supporters must be NomCom-eligible under the
+criteria in {{Section 3 of !RFC9389}}, where "the day the call for
 NomCom volunteers is sent" in this context is the day the appeal is
 raised.
 
@@ -98,39 +96,30 @@ of !RFC8713}} does **not** apply to potential supporters. The group
 of potential supporters hence may include members of the IESG, the
 IAB, etc.
 
-Qualified supporters MUST NOT have supported the same appellant during
-a previous appeal within the past year. Qualified supporters MAY have
+Qualified supporters must not have supported the same appellant during
+a previous appeal within the past year. Qualified supporters may have
 supported other appellants.
 
-Appellants MAY act as a supporter for their own appeal when they meet
+Appellants may act as a supporter for their own appeal when they meet
 the above criteria. As a result they can only self-support once.
 
 # Mechanics
 
 Introducing the requirement for three supporters also introduces some
-additional mechanics in the process. The two normative changes to the
-process described in {{!RFC2026}} are that
-
-- three supporters must have filed their support with the
-  appeal-handling body at most two weeks after the appeal has been
-  received by that body;
-
-- the appeal-handling body MAY choose to not consider the appeal if
-  there are insufficient qualified supporters.
-
-Note that the appeal-handling body MAY choose to consider an appeal
-even when there are insufficient qualified supporters.
+additional mechanics in the process. The normative change to the
+process described in {{!RFC2026}} is that three supporters must have
+filed their support with the appeal-handling body at most two weeks
+after the appeal has been received by that body.
 
 It is the responsibility of the appellant to find qualified
 supporters. In order to find qualified supporters, the appellant may
-send a **single** message to **one** directly relevant public IETF mailing list (such as the working group concerned) or to the IETF general list. This message must respect the IETF Guidelines for Conduct {{BCP7154}}.
+send a **single** message to **one** directly relevant public IETF mailing list (such as the working group concerned) or to the IETF general list. This message must respect the IETF Guidelines for Conduct {{!BCP54}}.
 
-Supporters SHOULD send their supporting messages personally to the
-appeal-handling body in question and SHOULD NOT proxy their message
-through the appellant.
+Supporters must send their supporting messages personally to the
+appeal-handling body in question.
 
 If an appellant escalates an appeal from the IESG to the IAB, that
-escalated appeal MUST find new qualified supporters.
+escalated appeal must find new qualified supporters.
 
 # Conclusions
 
