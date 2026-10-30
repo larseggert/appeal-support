@@ -100,9 +100,12 @@ Table of Contents
    Therefore, this document updates [RFC2026] in that an appellant must
    gain support from at least *three* active IETF participants
    ("supporters") for an appeal to be considered by the IESG as a whole
-   or the IAB.  Importantly, this requirement does *not* apply to the
-   initial phases of the appeals process, i.e., to bring up a dispute
-   with the WG chairs or the responsible AD.
+   or the IAB.  This covers the appeals to the IESG and to the IAB in
+   Section 6.5.1 of [RFC2026], as well as the IESG re-examination and
+   the appeal to the IAB in Section 6.5.2 of [RFC2026].  Importantly,
+   this requirement does *not* apply to the initial phases of these
+   processes, i.e., to bring up a dispute with the WG chairs or the
+   responsible AD, or to discuss an IESG action with the IESG Chair.
 
    This requirement reduces the likelihood that the appeals process will
    be abused by individuals while still maintaining an open and
