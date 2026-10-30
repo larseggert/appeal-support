@@ -97,7 +97,7 @@ Table of Contents
    appeals process has been abused to stall forward progress
    [MontrealPlenary].
 
-   Therefore, this document updates [RFC2026] in that an appellant MUST
+   Therefore, this document updates [RFC2026] in that an appellant must
    gain support from at least *three* active IETF participants
    ("supporters") for an appeal to be considered by the IESG as a whole
    or the IAB.  Importantly, this requirement does *not* apply to the
@@ -121,18 +121,12 @@ Table of Contents
    (the view of) the appellant, but more for the fact that time of the
    responsible review boards is to be spent on the issue.
 
-   The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT",
-   "SHOULD", "SHOULD NOT", "RECOMMENDED", "NOT RECOMMENDED", "MAY", and
-   "OPTIONAL" in this document are to be interpreted as described in
-   BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
-   capitals, as shown here.
-
 3.  Qualified Supporters
 
    Supporters are intended to have a reasonable IETF experience.  They
    are supposed to be active participants that know the IETF community.
 
-   Therefore, qualified supporters MUST be NomCom-eligible under the
+   Therefore, qualified supporters must be NomCom-eligible under the
    criteria in Section 3 of [RFC9389], where "the day the call for
    NomCom volunteers is sent" in this context is the day the appeal is
    raised.
@@ -142,11 +136,11 @@ Table of Contents
    does *not* apply to potential supporters.  The group of potential
    supporters hence may include members of the IESG, the IAB, etc.
 
-   Qualified supporters MUST NOT have supported the same appellant
+   Qualified supporters must not have supported the same appellant
    during a previous appeal within the past year.  Qualified supporters
-   MAY have supported other appellants.
+   may have supported other appellants.
 
-   Appellants MAY act as a supporter for their own appeal when they meet
+   Appellants may act as a supporter for their own appeal when they meet
    the above criteria.  As a result they can only self-support once.
 
 4.  Mechanics
@@ -158,14 +152,14 @@ Table of Contents
    after the appeal has been received by that body.
 
    It is the responsibility of the appellant to find qualified
-   supporters.  In order to find qualified supporters, the appellant MAY
+   supporters.  In order to find qualified supporters, the appellant may
    send a *single* message to *one* public IETF mailing list.
 
    Supporters must send their supporting messages personally to the
    appeal-handling body in question.
 
    If an appellant escalates an appeal from the IESG to the IAB, that
-   escalated appeal MUST find new qualified supporters.
+   escalated appeal must find new qualified supporters.
 
 5.  Conclusions
 
@@ -188,15 +182,6 @@ Table of Contents
    [RFC2026]  Bradner, S., "The Internet Standards Process -- Revision
               3", BCP 9, RFC 2026, DOI 10.17487/RFC2026, October 1996,
               <https://www.rfc-editor.org/rfc/rfc2026>.
-
-   [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
-              Requirement Levels", BCP 14, RFC 2119,
-              DOI 10.17487/RFC2119, March 1997,
-              <https://www.rfc-editor.org/rfc/rfc2119>.
-
-   [RFC8174]  Leiba, B., "Ambiguity of Uppercase vs Lowercase in RFC
-              2119 Key Words", BCP 14, RFC 8174, DOI 10.17487/RFC8174,
-              May 2017, <https://www.rfc-editor.org/rfc/rfc8174>.
 
    [RFC8713]  Kucherawy, M., Ed., Hinden, R., Ed., and J. Livingood,
               Ed., "IAB, IESG, IETF Trust, and IETF LLC Selection,
