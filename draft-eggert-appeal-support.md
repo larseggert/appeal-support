@@ -113,7 +113,7 @@ after the appeal has been received by that body.
 
 It is the responsibility of the appellant to find qualified
 supporters. In order to find qualified supporters, the appellant may
-send a **single** message to **one** public IETF mailing list.
+send a **single** message to **one** directly relevant public IETF mailing list (such as the working group concerned) or to the IETF general list. This message must respect the IETF Guidelines for Conduct {{!BCP54}}.
 
 Supporters must send their supporting messages personally to the
 appeal-handling body in question.
