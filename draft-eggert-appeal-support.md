@@ -143,6 +143,19 @@ This document has no IANA actions.
 
 # Change History
 
+## Since draft-eggert-appeal-support-01
+
+- Remove the option for the appeal-handling body to (not) consider
+  appeals with insufficient supporters.
+- Remove BCP 14 key words.
+- Supporters must send their support directly to the appeal-handling
+  body.
+- Limit the call for supporters to one relevant list and require it to
+  follow the IETF Guidelines for Conduct.
+- Clarify that appellants need not be NomCom-eligible.
+- Escalated appeals keep their supporters.
+- Name the RFC 2026 steps the supporter requirement covers.
+
 ## Since draft-eggert-appeal-support-00
 
 - Only require supporters when appeals hit the IESG or IAB.
