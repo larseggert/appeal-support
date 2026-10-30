@@ -85,8 +85,8 @@ boards is to be spent on the issue.
 Supporters are intended to have a reasonable IETF experience. They are
 supposed to be active participants that know the IETF community.
 
-Therefore, qualified supporters MUST be NomCom-eligible under the
-criteria in{{Section 3 of !RFC9389}}, where "the day the call for
+Therefore, qualified supporters must be NomCom-eligible under the
+criteria in {{Section 3 of !RFC9389}}, where "the day the call for
 NomCom volunteers is sent" in this context is the day the appeal is
 raised.
 
@@ -106,26 +106,17 @@ the above criteria. As a result they can only self-support once.
 # Mechanics
 
 Introducing the requirement for three supporters also introduces some
-additional mechanics in the process. The two normative changes to the
-process described in {{!RFC2026}} are that
-
-- three supporters must have filed their support with the
-  appeal-handling body at most two weeks after the appeal has been
-  received by that body;
-
-- the appeal-handling body MAY choose to not consider the appeal if
-  there are insufficient qualified supporters.
-
-Note that the appeal-handling body MAY choose to consider an appeal
-even when there are insufficient qualified supporters.
+additional mechanics in the process. The normative change to the
+process described in {{!RFC2026}} is that three supporters must have
+filed their support with the appeal-handling body at most two weeks
+after the appeal has been received by that body.
 
 It is the responsibility of the appellant to find qualified
-supporters. In order to find qualified supporters, the appellant MAY
+supporters. In order to find qualified supporters, the appellant may
 send a **single** message to **one** public IETF mailing list.
 
-Supporters should send their supporting messages personally to the
-appeal-handling body in question and should not proxy their message
-through the appellant.
+Supporters must send their supporting messages personally to the
+appeal-handling body in question.
 
 If an appellant escalates an appeal from the IESG to the IAB, that
 escalated appeal must find new qualified supporters.
