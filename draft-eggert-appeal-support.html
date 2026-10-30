@@ -12,22 +12,22 @@ failures to the IESG and the IAB. This document updates RFC2026 and
 requires that an appellant must first gain support for their appeal
 before an appeal may be considered by the body it is submitted to. 
     " name="description">
-<meta content="xml2rfc 3.34.0" name="generator">
+<meta content="xml2rfc 3.34.1" name="generator">
 <meta content="draft-eggert-appeal-support-latest" name="ietf.draft">
 <!-- Generator version information:
-  xml2rfc 3.34.0
-    Python 3.14.5
-    ConfigArgParse 1.7.5
+  xml2rfc 3.34.1
+    Python 3.14.8
+    ConfigArgParse 1.8.0
     google-i18n-address 3.1.1
     intervaltree 3.2.1
     Jinja2 3.1.6
     lxml 6.1.1
     natsort 8.4.0
-    platformdirs 4.10.1
+    platformdirs 4.13.4
     pycountry 24.6.1
     PyYAML 6.0.3
     requests 2.33.1
-    wcwidth 0.8.2
+    wcwidth 0.9.2
 -->
 <link href="draft-eggert-appeal-support.xml" rel="alternate" type="application/rfc+xml">
 <link href="#copyright" rel="license">
@@ -63,7 +63,6 @@ before an appeal may be considered by the body it is submitted to.
   src: local('Lora Italic'), local('Lora-Italic'), url('https://martinthomson.github.io/rfc-css/fonts/lora-italic-latin-ext.woff2') format('woff2');
   unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
 }
-
 @font-face {
   font-family: 'Lora';
   font-style: italic;
@@ -112,7 +111,6 @@ before an appeal may be considered by the body it is submitted to.
   src: local('Lora Regular'), local('Lora-Regular'), url('https://martinthomson.github.io/rfc-css/fonts/lora-regular-latin.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
-
 @font-face {
   font-family: 'Lora';
   font-style: normal;
@@ -177,7 +175,6 @@ before an appeal may be considered by the body it is submitted to.
   font-display: swap;
   src: local('Oxygen Mono'), local('OxygenMono-Regular'), url('https://martinthomson.github.io/rfc-css/fonts/oxygenmono-regular-latin.woff2') format('woff2');
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
-}
 }
 
 @font-face {
@@ -1046,11 +1043,11 @@ svg {
 <thead><tr>
 <td class="left">Internet-Draft</td>
 <td class="center">Requiring Support for Appeals</td>
-<td class="right">July 2026</td>
+<td class="right">October 2026</td>
 </tr></thead>
 <tfoot><tr>
 <td class="left">Eggert</td>
-<td class="center">Expires 23 January 2027</td>
+<td class="center">Expires 3 May 2027</td>
 <td class="right">[Page]</td>
 </tr></tfoot>
 </table>
@@ -1066,12 +1063,12 @@ svg {
 <a href="https://www.rfc-editor.org/rfc/rfc2026" class="eref">2026</a> (if approved)</dd>
 <dt class="label-published">Published:</dt>
 <dd class="published">
-<time datetime="2026-07-22" class="published">22 July 2026</time>
+<time datetime="2026-10-30" class="published">30 October 2026</time>
     </dd>
 <dt class="label-intended-status">Intended Status:</dt>
 <dd class="intended-status">Best Current Practice</dd>
 <dt class="label-expires">Expires:</dt>
-<dd class="expires"><time datetime="2027-01-23">23 January 2027</time></dd>
+<dd class="expires"><time datetime="2027-05-03">3 May 2027</time></dd>
 <dt class="label-authors">Author:</dt>
 <dd class="authors">
 <div class="author">
@@ -1124,7 +1121,7 @@ before an appeal may be considered by the body it is submitted to.<a href="#sect
         time. It is inappropriate to use Internet-Drafts as reference
         material or to cite them other than as "work in progress."<a href="#section-boilerplate.1-3" class="pilcrow">¶</a></p>
 <p id="section-boilerplate.1-4">
-        This Internet-Draft will expire on 23 January 2027.<a href="#section-boilerplate.1-4" class="pilcrow">¶</a></p>
+        This Internet-Draft will expire on 3 May 2027.<a href="#section-boilerplate.1-4" class="pilcrow">¶</a></p>
 </section>
 </div>
 <div id="copyright">
@@ -1277,29 +1274,18 @@ the above criteria. As a result they can only self-support once.<a href="#sectio
 <a href="#section-4" class="section-number selfRef">4. </a><a href="#name-mechanics" class="section-name selfRef">Mechanics</a>
       </h2>
 <p id="section-4-1">Introducing the requirement for three supporters also introduces some
-additional mechanics in the process. The two normative changes to the
-process described in <span>[<a href="#RFC2026" class="cite xref">RFC2026</a>]</span> are that<a href="#section-4-1" class="pilcrow">¶</a></p>
-<ul class="normal">
-<li class="normal" id="section-4-2.1">
-          <p id="section-4-2.1.1">three supporters must have filed their support with the
-appeal-handling body at most two weeks after the appeal has been
-received by that body;<a href="#section-4-2.1.1" class="pilcrow">¶</a></p>
-</li>
-        <li class="normal" id="section-4-2.2">
-          <p id="section-4-2.2.1">the appeal-handling body <span class="bcp14">MAY</span> choose to not consider the appeal if
-there are insufficient qualified supporters.<a href="#section-4-2.2.1" class="pilcrow">¶</a></p>
-</li>
-      </ul>
-<p id="section-4-3">Note that the appeal-handling body <span class="bcp14">MAY</span> choose to consider an appeal
-even when there are insufficient qualified supporters.<a href="#section-4-3" class="pilcrow">¶</a></p>
-<p id="section-4-4">It is the responsibility of the appellant to find qualified
+additional mechanics in the process. The normative change to the
+process described in <span>[<a href="#RFC2026" class="cite xref">RFC2026</a>]</span> is that three supporters must have
+filed their support with the appeal-handling body at most two weeks
+after the appeal has been received by that body.<a href="#section-4-1" class="pilcrow">¶</a></p>
+<p id="section-4-2">It is the responsibility of the appellant to find qualified
 supporters. In order to find qualified supporters, the appellant <span class="bcp14">MAY</span>
-send a <strong>single</strong> message to <strong>one</strong> public IETF mailing list.<a href="#section-4-4" class="pilcrow">¶</a></p>
-<p id="section-4-5">Supporters <span class="bcp14">SHOULD</span> send their supporting messages personally to the
+send a <strong>single</strong> message to <strong>one</strong> public IETF mailing list.<a href="#section-4-2" class="pilcrow">¶</a></p>
+<p id="section-4-3">Supporters <span class="bcp14">SHOULD</span> send their supporting messages personally to the
 appeal-handling body in question and <span class="bcp14">SHOULD NOT</span> proxy their message
-through the appellant.<a href="#section-4-5" class="pilcrow">¶</a></p>
-<p id="section-4-6">If an appellant escalates an appeal from the IESG to the IAB, that
-escalated appeal <span class="bcp14">MUST</span> find new qualified supporters.<a href="#section-4-6" class="pilcrow">¶</a></p>
+through the appellant.<a href="#section-4-3" class="pilcrow">¶</a></p>
+<p id="section-4-4">If an appellant escalates an appeal from the IESG to the IAB, that
+escalated appeal <span class="bcp14">MUST</span> find new qualified supporters.<a href="#section-4-4" class="pilcrow">¶</a></p>
 </section>
 </div>
 <div id="conclusions">
