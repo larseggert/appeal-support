@@ -100,8 +100,9 @@ Qualified supporters must not have supported the same appellant during
 a previous appeal within the past year. Qualified supporters may have
 supported other appellants.
 
-Appellants may act as a supporter for their own appeal when they meet
-the above criteria. As a result they can only self-support once.
+Appellants themselves need not be NomCom-eligible. Appellants may act
+as a supporter for their own appeal when they meet the above criteria.
+As a result they can only self-support once.
 
 # Mechanics
 
