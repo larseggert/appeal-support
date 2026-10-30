@@ -151,6 +151,7 @@ This document has no IANA actions.
   follow the IETF Guidelines for Conduct.
 - Clarify that appellants need not be NomCom-eligible.
 - Escalated appeals keep their supporters.
+- Name the RFC 2026 steps the supporter requirement covers.
 
 ## Since draft-eggert-appeal-support-00
 
