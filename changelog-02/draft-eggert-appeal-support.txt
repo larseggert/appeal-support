@@ -241,6 +241,8 @@ A.1.  Since draft-eggert-appeal-support-01
 
    *  Escalated appeals keep their supporters.
 
+   *  Name the RFC 2026 steps the supporter requirement covers.
+
 A.2.  Since draft-eggert-appeal-support-00
 
    *  Only require supporters when appeals hit the IESG or IAB.
